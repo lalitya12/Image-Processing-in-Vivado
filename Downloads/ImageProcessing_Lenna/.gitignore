@@ -1,0 +1,11 @@
+# Vivado auto-generated folders and log files
+*.log
+*.jou
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/utils_1/
